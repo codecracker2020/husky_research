@@ -2,6 +2,195 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.45](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.45) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.44](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.44) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.45](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.45) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.44](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.44) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.43](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.43) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.42](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.42) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.41](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.41) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.40](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.40) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.39](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.39) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.38](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.38) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.37](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.37) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.36](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.36) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.35](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.35) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.34](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.34) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.33](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.33) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.32](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.32) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.31](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.31) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.30](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.30) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.29](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.29) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.28](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.28) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+
+
+
+### [1.0.27](https://github.com/navi2581/husky_research/compare/v1.0.1...v1.0.27) (2019-07-29)
+
+
+### Bug Fixes
+
+* test commit ([3a4418f](https://github.com/navi2581/husky_research/commit/3a4418f))
+
+
+
 ### [1.0.27](https://github.com/navi2581/husky_research/compare/v1.0.1...v1.0.27) (2019-07-29)
 
 

@@ -1,13 +1,17 @@
 {
   "name": "husky_research",
-  "version": "1.0.26",
+  "version": "1.0.45",
   "description": "",
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
-    "updateVersions": "npm run release && exit 1"
+    "updateVersions": "npm run release || exit 1"
   },
-  "husky": { "hooks": { "pre-commit": "updateVersions" } },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/navi2581/husky_research.git"
