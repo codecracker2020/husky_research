@@ -1,14 +1,15 @@
 {
   "name": "husky_research",
-  "version": "1.36.0",
+  "version": "1.75.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
-    "updateVersions": "npm run release"
-	
+    "updateVersions": "npm run release && exit 0"
   },
-  
+  "pre-commit": [
+    "updateVersions"
+  ],
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
@@ -16,8 +17,7 @@
   },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-	  "pre-commit": "npm run release"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "repository": {
@@ -33,6 +33,7 @@
   "devDependencies": {
     "@commitlint/cli": "^8.1.0",
     "@commitlint/config-conventional": "^8.1.0",
+    "grunt-bump": "^0.8.0",
     "husky": "^3.0.1",
     "standard-version": "^6.0.1"
   }
