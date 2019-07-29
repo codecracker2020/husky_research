@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/navi2581/husky_research/compare/v1.0.1...v1.1.0) (2019-07-29)
+
+
+### Bug Fixes
+
+* 1test commit ([325e193](https://github.com/navi2581/husky_research/commit/325e193))
+* 1test commit9988dfjkjh ([a1c5de4](https://github.com/navi2581/husky_research/commit/a1c5de4))
+* take this ([77c3104](https://github.com/navi2581/husky_research/commit/77c3104))
+* test commit ([3a4418f](https://github.com/navi2581/husky_research/commit/3a4418f))
+
+
+### Features
+
+* 1test commit9988dfjkjh ([6e55fd3](https://github.com/navi2581/husky_research/commit/6e55fd3))
+* 1test commit9988dfjkjh ([ba340eb](https://github.com/navi2581/husky_research/commit/ba340eb))
+* split ROLE_VIEW_ABSENCE_HISTORIES ([de2b967](https://github.com/navi2581/husky_research/commit/de2b967))
+
+
+
 ### [1.0.45](https://github.com/navi2581/husky_research/compare/v1.0.27...v1.0.45) (2019-07-29)
 
 
