@@ -6,7 +6,7 @@
   "scripts": {
     "release": "standard-version",
     "updateVersions": "npm run release",
-	"pre-commit": "updateVersions"
+	"pre-commit": "npm run release"
   },
   
   "config": {
