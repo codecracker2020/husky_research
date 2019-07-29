@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
-    "updateVersions": "npm run release",
-	"pre-commit": "npm run release"
+    "updateVersions": "npm run release"
+	
   },
   
   "config": {
@@ -16,7 +16,8 @@
   },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+	  "pre-commit": "npm run release"
     }
   },
   "repository": {
