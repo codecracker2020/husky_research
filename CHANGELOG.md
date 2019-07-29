@@ -2,6 +2,386 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.38.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.38.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.37.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.37.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.36.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.36.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.35.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.35.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.34.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.34.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.33.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.33.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.32.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.32.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.31.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.31.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.30.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.30.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.29.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.29.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.28.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.28.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.27.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.27.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.26.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.26.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.25.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.25.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.24.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.24.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.23.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.23.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.22.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.22.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.21.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.21.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.20.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.20.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.20.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.20.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.19.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.19.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.18.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.18.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.17.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.17.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.16.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.16.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.15.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.15.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.14.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.14.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.13.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.13.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.12.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.12.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.11.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.11.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.10.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.10.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.9.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.9.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.8.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.8.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.7.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.7.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.6.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.6.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.5.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.5.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.4.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.4.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.3.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.3.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
+## [1.2.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.2.0) (2019-07-29)
+
+
+### Features
+
+* take this ([cc33ef2](https://github.com/navi2581/husky_research/commit/cc33ef2))
+* take this ([59e87a6](https://github.com/navi2581/husky_research/commit/59e87a6))
+
+
+
 ## [1.1.0](https://github.com/navi2581/husky_research/compare/v1.0.1...v1.1.0) (2019-07-29)
 
 
