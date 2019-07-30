@@ -6,7 +6,7 @@
   "scripts": {
     "release": "standard-version",
     "updateVersions": "npm run release && exit 0"
-  },  
+  },
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
