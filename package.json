@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version",
-    "updateVersions": "npm run release && exit 0"
+    "preversion": "",
+    "version": "git add -A dist",
+    "postversion": "git push && git push --tags && rm -rf build/temp"
   },
   "config": {
     "commitizen": {
