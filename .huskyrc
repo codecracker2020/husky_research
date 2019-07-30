@@ -1,5 +1,5 @@
 // .huskyrc
-":{
+"husky":{
 "skipCI": false,
   "hooks": {
     "pre-commit": "npm run release"
