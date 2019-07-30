@@ -2,6 +2,39 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.75.3](https://github.com/navi2581/husky_research/compare/v1.75.0...v1.75.3) (2019-07-30)
+
+
+### Bug Fixes
+
+* take this ([f687cfe](https://github.com/navi2581/husky_research/commit/f687cfe))
+* take this ([6878bfb](https://github.com/navi2581/husky_research/commit/6878bfb))
+* take thissdf ([a15adf0](https://github.com/navi2581/husky_research/commit/a15adf0))
+
+
+
+### [1.75.2](https://github.com/navi2581/husky_research/compare/v1.75.0...v1.75.2) (2019-07-30)
+
+
+### Bug Fixes
+
+* take this ([f687cfe](https://github.com/navi2581/husky_research/commit/f687cfe))
+* take this ([6878bfb](https://github.com/navi2581/husky_research/commit/6878bfb))
+* take thissdf ([a15adf0](https://github.com/navi2581/husky_research/commit/a15adf0))
+
+
+
+### [1.75.1](https://github.com/navi2581/husky_research/compare/v1.75.0...v1.75.1) (2019-07-30)
+
+
+### Bug Fixes
+
+* take this ([f687cfe](https://github.com/navi2581/husky_research/commit/f687cfe))
+* take this ([6878bfb](https://github.com/navi2581/husky_research/commit/6878bfb))
+* take thissdf ([a15adf0](https://github.com/navi2581/husky_research/commit/a15adf0))
+
+
+
 ## [1.75.0](https://github.com/navi2581/husky_research/compare/v1.1.0...v1.75.0) (2019-07-29)
 
 
