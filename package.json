@@ -1,6 +1,6 @@
 {
   "name": "husky_research",
-  "version": "1.77.5",
+  "version": "1.77.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,7 @@
   },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-commit": "npm run release && git add ."
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS && npm run release && git add ."
     }
   },
   "standard-version": {
