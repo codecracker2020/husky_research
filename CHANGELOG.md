@@ -2,6 +2,44 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.77.3](https://github.com/navi2581/husky_research/compare/v1.77.2...v1.77.3) (2019-07-31)
+
+
+
+### [1.77.2](https://github.com/navi2581/husky_research/compare/v1.77.1...v1.77.2) (2019-07-31)
+
+
+
+### [1.77.1](https://github.com/navi2581/husky_research/compare/v1.77.0...v1.77.1) (2019-07-31)
+
+
+
+## [1.77.0](https://github.com/navi2581/husky_research/compare/v1.75.0...v1.77.0) (2019-07-31)
+
+
+### Bug Fixes
+
+* asdfdasf ([265a49e](https://github.com/navi2581/husky_research/commit/265a49e))
+* asdfdasf1 ([ffef58b](https://github.com/navi2581/husky_research/commit/ffef58b))
+* asdfdasf1 ([172a8b1](https://github.com/navi2581/husky_research/commit/172a8b1))
+* split ROLE_VIEW_ABSENCE_HISTORIES ([d8f0b32](https://github.com/navi2581/husky_research/commit/d8f0b32))
+* split ROLE_VIEW_ABSENCE_HISTORIES ([bb84924](https://github.com/navi2581/husky_research/commit/bb84924))
+* split ROLE_VIEW_ABSENCE_HISTORIES ([be88cd9](https://github.com/navi2581/husky_research/commit/be88cd9))
+* split ROLE_VIEW_ABSENCE_HISTORIES ([b8dba68](https://github.com/navi2581/husky_research/commit/b8dba68))
+* take this ([f687cfe](https://github.com/navi2581/husky_research/commit/f687cfe))
+* take this ([6878bfb](https://github.com/navi2581/husky_research/commit/6878bfb))
+* take thissdf ([a15adf0](https://github.com/navi2581/husky_research/commit/a15adf0))
+
+
+### Features
+
+* pre-commit hook12 ([f3cfe65](https://github.com/navi2581/husky_research/commit/f3cfe65))
+* pre-commit hook23 ([09ce1aa](https://github.com/navi2581/husky_research/commit/09ce1aa))
+* split ROLE_VIEW_ABSENCE_HISTORIES ([c32d2b7](https://github.com/navi2581/husky_research/commit/c32d2b7))
+* split ROLE_VIEW_ABSENCE_HISTORIES ([0221b00](https://github.com/navi2581/husky_research/commit/0221b00))
+
+
+
 ## [1.76.0](https://github.com/navi2581/husky_research/compare/v1.75.3...v1.76.0) (2019-07-31)
 
 
