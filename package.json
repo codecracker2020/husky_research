@@ -1,12 +1,10 @@
 {
   "name": "husky_research",
-  "version": "1.75.3",
+  "version": "1.76.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version",
-    "updateVersions": "npm run release && exit 0",
-    "lint:fix": "prettier-eslint '*.js' --write"
+    "release": "standard-version --no-verify"
   },
   "config": {
     "commitizen": {
@@ -23,7 +21,7 @@
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-commit": "lint-staged"
+      "pre-commit": "npm run release"
     }
   },
   "repository": {
