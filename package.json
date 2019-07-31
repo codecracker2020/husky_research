@@ -17,6 +17,11 @@
       "pre-commit": "npm run release && git add ."
     }
   },
+  "standard-version": {
+    "skip": {
+      "commit": true
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/navi2581/husky_research.git"
