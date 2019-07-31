@@ -1,10 +1,10 @@
 {
   "name": "husky_research",
-  "version": "1.77.4",
+  "version": "1.77.5",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version --no-verify"
+    "release": "standard-version"
   },
   "config": {
     "commitizen": {

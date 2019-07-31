@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.77.5](https://github.com/navi2581/husky_research/compare/v1.77.4...v1.77.5) (2019-07-31)
+
+
+
 ### [1.77.4](https://github.com/navi2581/husky_research/compare/v1.77.3...v1.77.4) (2019-07-31)
 
 
