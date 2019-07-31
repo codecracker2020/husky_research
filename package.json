@@ -1,6 +1,6 @@
 {
   "name": "husky_research",
-  "version": "1.76.0",
+  "version": "1.76.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,7 @@
   },
   "lint-staged": {
     "*.js": [
-      "npm run lint:fix",
-      "npm run release",
-      "git add"
+      "npm run release"
     ]
   },
   "husky": {
