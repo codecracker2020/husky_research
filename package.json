@@ -1,6 +1,6 @@
 {
   "name": "husky_research",
-  "version": "1.76.1",
+  "version": "1.77.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,15 +11,15 @@
       "path": "cz-conventional-changelog"
     }
   },
-  "lint-staged": {
-    "*.js": [
-      "npm run release"
-    ]
-  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-commit": "npm run release"
+      "pre-commit": "npm run release && git add ."
+    }
+  },
+  "standard-version": {
+    "skip": {
+      "commit": true
     }
   },
   "repository": {
