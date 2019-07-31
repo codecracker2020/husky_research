@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.78.0](https://github.com/navi2581/husky_research/compare/v1.77.13...v1.78.0) (2019-07-31)
+
+
+### Bug Fixes
+
+* test 6 ([958ebe9](https://github.com/navi2581/husky_research/commit/958ebe9))
+* test 8 ([610e050](https://github.com/navi2581/husky_research/commit/610e050))
+
+
+### Features
+
+* added Readme.md to brief everything ([3ee0727](https://github.com/navi2581/husky_research/commit/3ee0727))
+
+
+
 ### [1.77.13](https://github.com/navi2581/husky_research/compare/v1.77.12...v1.77.13) (2019-07-31)
 
 

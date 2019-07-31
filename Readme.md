@@ -14,13 +14,3 @@ Version Tagger
 - Won’t explode your page’s layout.
 
 
-## Installation and configuration
-
-### Installation from npm
-
-It’s recommended to install the `social-likes-next` from npm:
-
-```bash
-npm install --save social-likes-next
-```
-
